@@ -1,5 +1,7 @@
 HR Analytics Dashboard | Power BI
 
+Dashboard View 
+
 Project Overview
 
 This project explores employee workforce data using Power BI to analyze employee demographics, workforce distribution, salary levels, and attrition patterns. The dashboard provides an interactive view of key HR metrics, helping identify workforce trends and areas that may require further investigation.
