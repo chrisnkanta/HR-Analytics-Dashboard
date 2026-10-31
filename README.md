@@ -2,8 +2,8 @@
 
 ## Dashboard Preview
 
-([https://github.com/chrisnkanta/HR-Analytics-Dashboard/blob/main/Image/Screenshot%202026-10-26%20212514.png])
-![H Performance Analytics Dashboard]([https://github.com/chrisnkanta/HR-Analytics-Dashboard/blob/main/Image/Screenshot%202026-10-26%20212514.png])
+
+![HR Performance Analytics Dashboard]([https://github.com/chrisnkanta/HR-Analytics-Dashboard/blob/main/Image/Screenshot%202026-10-26%20212514.png])
 
 
 ## Project Overview
