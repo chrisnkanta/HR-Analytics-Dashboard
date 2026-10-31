@@ -1,32 +1,50 @@
-# HR Analytics Dashboard | Power BI
+HR Analytics Dashboard | Power BI
 
 Project Overview
 
-This project explores employee workforce data using Power BI to analyze employee demographics, workforce distribution, salary levels, and attrition patterns. The dashboard provides an interactive view of key HR metrics, helping identify workforce trends and areas that may require further investigation.
+This project analyzes employee data using Power BI to explore workforce distribution, employee demographics, salary levels, and attrition patterns. The interactive dashboard provides HR stakeholders with insights into workforce trends and potential employee retention challenges.
 
-Key Performance Indicators (KPIs)
+Key Performance Indicators
 
-Total Employees: 1,417
+KPI
 
-Active Employees: 1,186
+Result
 
-Employee Attrition: 231
+Total Employees
 
-Attrition Rate: 16.3%
+1,417
 
-Average Employee Age: 36.94 years
+Active Employees
 
-Average Work Experience: 7.04 years
+1,186
 
-Key Insights & Findings
+Employee Attrition
+
+231
+
+Attrition Rate
+
+16.3%
+
+Average Employee Age
+
+36.94 years
+
+Average Work Experience
+
+7.04 years
+
+Key Findings & Insights
 
 1. Employee Attrition
 
-The overall employee attrition rate is 16.3%, representing 231 employees.
+The overall attrition rate is 16.3%, representing 231 employee departures.
 
 Sales has the highest department-level attrition rate at 25.1%, followed by Human Resources at 23.1% and Administration at 20.7%.
 
 Operations has the lowest attrition rate at 8.4%.
+
+These differences highlight departments that may benefit from further retention analysis.
 
 2. Workforce Distribution
 
@@ -34,42 +52,56 @@ Operations has the largest workforce, with 512 employees, followed by Administra
 
 Finance has the smallest workforce, with 23 employees.
 
-Employees aged 26–35 represent the largest age group, with 588 employees, followed by the 36–45 age group with 446 employees.
+Employees aged 26–35 form the largest age group, with 588 employees, followed by the 36–45 age group with 446.
+
+This provides an overview of workforce concentration across departments and age groups.
 
 3. Attrition by Demographics
 
-Male employees account for 63.2% of total attrition (146 employees), while female employees account for 36.8% (85 employees).
+Male employees account for 146 departures (63.2%), while female employees account for 85 departures (36.8%).
 
-The 26–35 age group records the highest attrition count, with 111 employees, followed by the 18–25 age group with 44.
+The 26–35 age group has the highest attrition count, with 111 departures.
+
+The 18–25 age group follows with 44 departures.
+
+These findings identify demographic groups for further investigation into employee retention patterns.
 
 4. Salary and Job Role Analysis
 
-The 6–10 LPA salary band has the highest attrition count, with 73 employees, followed by the 3–6 LPA band with 49.
+The 6–10 LPA salary band records the highest attrition count, with 73 departures.
 
-The dashboard also explores attrition patterns across job roles and satisfaction ratings to support more detailed workforce analysis.
+The 3–6 LPA salary band follows with 49 departures.
+
+The dashboard also examines attrition across job roles and job satisfaction ratings to explore potential relationships between employee experience and attrition.
 
 Business Recommendations
 
-Review retention in Sales and Human Resources: Investigate employee feedback, workload, career development, and management practices in departments with higher attrition rates.
+Based on the observed patterns, the following actions could support HR decision-making:
 
-Focus on early-career retention: Examine the experiences of employees aged 18–35 to identify potential opportunities to improve engagement and retention.
+Improve retention analysis: Investigate the factors contributing to higher attrition in Sales and Human Resources.
 
-Evaluate compensation and career progression: Review salary structures and development opportunities across salary bands and job roles.
+Strengthen early-career retention: Examine career development, employee engagement, and workplace experiences among younger employees.
 
-Monitor workforce trends: Use the dashboard regularly to track attrition, headcount, and demographic changes over time.
+Review compensation and career progression: Evaluate salary structures and growth opportunities across job roles and salary bands.
+
+Monitor workforce performance: Track attrition rates, employee headcount, and demographic trends to support ongoing workforce planning.
 
 Tools & Technologies
 
-Power BI
+Microsoft Power BI
 
 DAX (Data Analysis Expressions)
 
-Data Visualization
+Data Analysis and Visualization
+
+Interactive Dashboard Development
 
 HR Analytics
 
-Interactive Dashboard Design
-
 Project Objective
 
-The objective of this project is to demonstrate how data analytics and interactive Power BI dashboards can transform HR data into meaningful workforce insights, support data-driven decision-making, and help organizations identify potential employee retention challenges.
+To demonstrate the use of Power BI and data analysis techniques to transform employee data into actionable workforce insights, identify attrition patterns, and support data-driven HR decision-making.
+
+Conclusion
+
+The analysis highlights differences in employee attrition across departments, age groups, and salary bands. By bringing these metrics together in an interactive dashboard, the project demonstrates how data visualization can help HR teams monitor workforce trends and identify areas requiring further investigation.
